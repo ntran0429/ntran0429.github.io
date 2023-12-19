@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "About Me"
-    url: /talks/  
+  # - title: "About Me"
+  #   url: /talks/  
 
   - title: "Resume"
     url: /files/paper1.pdf
