@@ -31,4 +31,4 @@ I enjoy navigating the world of data. That's why I am currently working on a few
 ### Personal Interests
 Besides learning about data, I also enjoy lifting weights, watching basketball and studying the real estate market. 
 
-Currently, through family connections, I have an investor in Vietnam who is looking to invest in the US rental market. She is working on sending the fund to the US and I am helping her find the best investment opportunities using data analytics. This is a golden opportunity for me to apply my data skills to real life situations. Thus, I am working on a dashboard and analysis report at the state level to send to her. I will be posting my progress here as well.
+Currently, through family connections, I have an investor in Vietnam who is looking to invest in the US rental market. She is working on sending the fund to the US and I am helping her find the best investment opportunities using data analytics. This is a golden opportunity for me to apply my data skills to real life situations. Thus, I am working on a dashboard and an analysis report at the state level to send to her. I will be posting my progress here as well.
