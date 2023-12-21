@@ -28,6 +28,10 @@ redirect_from:
 ### Projects
 I enjoy navigating the world of data. That's why I am currently working on a few data analytics projects in my free time to showcase here. Besides working on my technical skills, I understand that communicating how actionable findings meet business requirements is also important, thus my projects will reflect both my passion for data and the practical actions a business can take.
 
+Customer Analytics for Targeted Marketing
+
+<iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZjM0YTZkNDAtN2FlMi00YmZmLWE5ZjktOWE3YTc0MjUxYTA2IiwidCI6IjcwZGUxOTkyLTA3YzYtNDgwZi1hMzE4LWExYWZjYmEwMzk4MyIsImMiOjN9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+
 ### Personal Interests
 Besides learning about data, I also enjoy lifting weights, watching basketball and studying the real estate market. 
 
