@@ -26,7 +26,7 @@ redirect_from:
   ![Microsoft Azure Badge](https://img.shields.io/badge/%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge)
 
 ### Projects
-I enjoy navigating the world of data. That's why I am currently working on a few data analytics projects in my free time to showcase here. Besides working on my technical skills, I understand that communicating how actionable findings meet business requirements is also important, thus my projects will reflect both my passion for data and the practical actions a business can take. Below are the projects I have so far:
+I enjoy navigating the world of data. That's why I am currently working on a few data analytics projects in my free time to showcase here. Besides working on my technical skills, I understand that communicating how actionable findings meet business requirements is also important, thus my projects will reflect both my passion for data and the practical actions a business can take. Below are the finished projects so far:
 
 [Customer Analytics for Targeted Marketing](https://ntran0429.github.io/portfolio/targeted_marketing/)
 
