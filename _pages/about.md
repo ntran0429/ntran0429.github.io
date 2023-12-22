@@ -26,12 +26,12 @@ redirect_from:
   ![Microsoft Azure Badge](https://img.shields.io/badge/%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge)
 
 ### Projects
-I enjoy navigating the world of data. That's why I am currently working on a few data analytics projects in my free time to showcase here. Besides working on my technical skills, I understand that communicating how actionable findings meet business requirements is also important, thus my projects will reflect both my passion for data and the practical actions a business can take. Below are the finished projects so far:
+I enjoy navigating the world of data. That's why I am currently working on a few data analytics projects in my free time to showcase here. Besides working on my technical skills, I understand that communicating how actionable findings meet business requirements is very important, thus my projects will reflect both my passion for data and the practical actions a business can take. Below are the finished projects so far:
 
 [Customer Analytics for Targeted Marketing](https://ntran0429.github.io/portfolio/targeted_marketing/)
 
 
 ### Personal Interests
-Besides learning about data, I also enjoy lifting weights, watching basketball and studying the real estate market. 
+I enjoy lifting weights, watching basketball and studying the real estate market. 
 
 Currently, through family connections, I have an investor in Vietnam who is looking to invest in the US rental market. She is working on sending the fund to the US and I am helping her find the best investment opportunities using data analytics. This is a great opportunity for me to apply my data skills to real life situations. Thus, I am working on a dashboard and an analysis report at the state level to send to her. I will be posting my progress here as well.
