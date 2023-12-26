@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### As a naturally curious and practical person, I use data to answer questions and make informed decisions.
+### I am a recent Mathematics graduate looking for an entry-level position or internship in Data Analytics.
 ### How to reach me: [LinkedIn](https://www.linkedin.com/in/nguyen-tran-unt/), email nguyentran3@my.unt.edu
 
 
