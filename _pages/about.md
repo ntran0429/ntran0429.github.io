@@ -29,7 +29,7 @@ redirect_from:
 I enjoy using data to solve problems. That's why I am currently working on a few data analytics projects in my free time to showcase here. Besides working on my technical skills, I understand that communicating how actionable findings meet business requirements is very important. Thus my projects will reflect both my passion for data and the practical actions a business can take. Below are the finished projects so far:
 
 [Customer Analysis for Targeted Marketing](https://ntran0429.github.io/portfolio/targeted_marketing/)
-
+[Purchasing Behavior Analysis](https://ntran0429.github.io/portfolio/targeted_marketing/)
 
 ### Personal Interests
 I love lifting weights, watching basketball and studying the real estate market. 
