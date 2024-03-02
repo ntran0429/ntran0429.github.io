@@ -32,7 +32,7 @@ I enjoy using data to solve problems. That's why I am currently working on a few
 
 [Customer Analysis for Targeted Marketing](https://ntran0429.github.io/portfolio/targeted_marketing/)
 
-[Purchasing Behavior Analysis](https://ntran0429.github.io/portfolio/purchase_behavior/)
+[Purchase Behavior Analysis](https://ntran0429.github.io/portfolio/purchase_behavior/)
 
 
 ### Personal Interests
