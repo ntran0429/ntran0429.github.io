@@ -28,10 +28,10 @@ redirect_from:
   ![Microsoft Azure Badge](https://img.shields.io/badge/%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge)
 
 ### Certifications
-  ![Microsoft Certified: Power BI Data Analyst Associate Badge](https://img.shields.io/badge/Microsoft%20Certified%3A%20Power%20BI%20Data%20Analyst%20Associate-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge)
-  <!-- ![Microsoft Certified: Azure Data Engineer Associate Badge](https://img.shields.io/badge/Microsoft%20Certified%3A%20Azure%20Data%20Engineer%20Associate-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge)
-  ![Microsoft Certified: Azure Fundamentals Badge](https://img.shields.io/badge/Microsoft%20Certified%3A%20Azure%20Fundamentals-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge)
-  ![Microsoft Certified: Azure AI Engineer Associate Badge](https://img.shields.io/badge/Microsoft%20Certified%3A%20Azure%20AI%20Engineer%20Associate-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge) -->
+  ![Microsoft Certified: Power BI Data Analyst Associate Badge](https://img.shields.io/badge/Microsoft%20Certified%3A%20Power%20BI%20Data%20Analyst%20Associate-0078D4?logo=microsoft)
+  <!-- ![Microsoft Certified: Azure Data Engineer Associate Badge](https://img.shields.io/badge/Microsoft%20Certified%3A%20Azure%20Data%20Engineer%20Associate-0078D4?logo=microsoft)
+  ![Microsoft Certified: Azure Fundamentals Badge](https://img.shields.io/badge/Microsoft%20Certified%3A%20Azure%20Fundamentals-0078D4?logo=microsoft)
+  ![Microsoft Certified: Azure AI Engineer Associate Badge](https://img.shields.io/badge/Microsoft%20Certified%3A%20Azure%20AI%20Engineer%20Associate-0078D4?logo=microsoft) -->
 
 
 ### Projects
