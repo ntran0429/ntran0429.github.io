@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### I’m currently hired as a data consultant doing ETL, DevOps, and reporting work in Azure, SQL, Python, C# and Power BI.
+### I’m currently a data developer doing ETL, DevOps, and reporting work in Azure, SQL, Python, C# and Power BI.
 ### The work involves building/maintaining data pipelines, developing Azure solutions (Azure Functions, ADF, Databricks, API Management, etc.), and introducing software engineering best practices (eg. CICD, version control) to our data team. I also create Power BI reports when Tableau is not the best option.
 ### How to reach me: [LinkedIn](https://www.linkedin.com/in/nguyen-tran-unt/), email nguyentran3@my.unt.edu
 
