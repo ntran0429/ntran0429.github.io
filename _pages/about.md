@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-### I’m currently a data developer doing ETL, DevOps, and reporting work in Azure, SQL, Python, C# and Power BI.
+### I’m currently a data developer doing ETL, DevOps, and analytics work in Azure, SQL, Python, C# and Power BI.
 ### The work involves building/maintaining data pipelines, developing Azure solutions (Azure Functions, ADF, Databricks, API Management, etc.), and introducing software engineering best practices (eg. CICD, version control) to our data team. I also create Power BI reports when Tableau is not the best option.
-### How to reach me: [LinkedIn](https://www.linkedin.com/in/nguyen-tran-unt/), email nguyentran3@my.unt.edu
+### How to reach me: [LinkedIn](https://www.linkedin.com/in/nguyen-tran-unt/), email nguyentran42900@gmail.com
 
 
 <!--badges sourced from https://badges.pages.dev -->
@@ -22,10 +22,12 @@ redirect_from:
   ![Microsoft SQL Server Badge](https://img.shields.io/badge/Transact%20SQL%20-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge)
   
 ### Tools
-  ![Power BI Badge](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=for-the-badge)
-  ![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=for-the-badge)
-  ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
   ![Microsoft Azure Badge](https://img.shields.io/badge/%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge)
+  ![Power BI Badge](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=for-the-badge)
+  <!-- ![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=for-the-badge) -->
+  ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+  ![DBT Badge](https://img.shields.io/badge/DBT-FFC82D?logo=dbt&logoColor=000&style=for-the-badge)
+  ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 
 ### Certifications
   Microsoft Certified: Power BI Data Analyst Associate
