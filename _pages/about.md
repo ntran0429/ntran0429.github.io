@@ -23,10 +23,9 @@ redirect_from:
   
 ### Tools
   ![Microsoft Azure Badge](https://img.shields.io/badge/%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge)
-  ![Power BI Badge](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=for-the-badge)
-  <!-- ![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=for-the-badge) -->
-  ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
-  ![DBT Badge](https://img.shields.io/badge/DBT-FFC82D?logo=dbt&logoColor=000&style=for-the-badge)
+  ![Power BI Badge](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=fff&style=for-the-badge)
+  ![Git Badge](https://img.shields.io/badge/Git-000000?logo=git&logoColor=fff&style=for-the-badge)
+  ![DBT Badge](https://img.shields.io/badge/DBT-F05032?logo=dbt&logoColor=fff&style=for-the-badge)
   ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 
 ### Certifications
