@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### I’m currently a data developer doing ETL, DevOps, and analytics work in Azure, SQL, Python, C# and Power BI.
-### The work involves building/maintaining data pipelines, developing Azure solutions (Azure Functions, ADF, Databricks, API Management, etc.), and introducing software engineering best practices (eg. CICD, version control) to our data team. I also create Power BI reports when Tableau is not the best option.
+### The work mainly involves building/maintaining data pipelines, developing Azure solutions (Azure Functions, ADF, SQL Managed Instance, Data Lake, etc.), and introducing software engineering best practices (eg. CICD, source control, documentation) to our data team. I also create Power BI reports when Tableau is not the best option.
 ### How to reach me: [LinkedIn](https://www.linkedin.com/in/nguyen-tran-unt/), email nguyentran42900@gmail.com
 
 
@@ -30,7 +30,7 @@ redirect_from:
   ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 
 ### Certifications
-  Microsoft Certified: Power BI Data Analyst Associate
+  [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/TranNguyen-4331/B681FAE0F1A259D9?sharingId=AE2253B91E1BAEA2)
 
 
 ### Projects
